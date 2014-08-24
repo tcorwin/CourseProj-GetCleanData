@@ -58,7 +58,7 @@
  Description: Measures the standard deviation of the body linear acceleration Jerk signal for the Z axis
  
  Variable: tBodyGyro-mean()-X         
- Description: 
+ Description: M
  
  Variable: tBodyGyro-mean()-Y         
  Description: 
