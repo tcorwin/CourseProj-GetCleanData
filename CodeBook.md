@@ -4,21 +4,27 @@
 
 #Variable list and descriptions:
  Variable: tBodyAcc-mean()-X
+ 
  Description: Measures the average body acceleration signal for the X axis
  
  Variable: tBodyAcc-mean()-Y
+ 
  Description: Measures the average body acceleration signal for the Y axis
  
  Variable: tBodyAcc-mean()-Z
+ 
  Description: Measures the average body acceleration signal for the Z axis
  
  Variable: tBodyAcc-std()-X
+ 
  Description: Measures the standard deviation of body acceleration signal for the X axis
  
  Variable: tBodyAcc-std()-Y
+ 
  Description: Measures the standard deviation of body acceleration signal for the Y axis
  
  Variable: tBodyAcc-std()-Z
+ 
  Description: Measures the standard deviation of body acceleration signal for the Z axis     
  
  Variable: tGravityAcc-mean()-X       
