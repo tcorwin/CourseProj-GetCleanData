@@ -16,14 +16,6 @@ names(x_testing)<-features$V2
 y_testing<-read.table("test/Y_test.txt",col.names=c("activity"))
 subj_testing<-read.table("test/subject_test.txt",col.names=c("subject"))
 
-#Checking the number of rows for merging/binding
-nrow(x_training)
-nrow(y_training)
-nrow(subj_training)
-nrow(x_testing)
-nrow(y_testing)
-nrow(subj_testing)
-
 #Bind the datasets together, rename added columns
 training_data<-cbind(x_training,y_training,subj_training)
 testing_data<-cbind(x_testing,y_testing,subj_testing)
