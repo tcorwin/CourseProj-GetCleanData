@@ -1,8 +1,8 @@
-#Variables and descriptions for the dataset: tidy_data.txt
+##Variables and descriptions for the dataset: tidy_data.txt
 
-##TidyData.txt is a tab-delimited text file with variables that contain the mean values for each of the mean and standard deviation measures captured by the Samsung, along with identifiers of the activity being performed and the subject (individual) being measured.
+###TidyData.txt is a tab-delimited text file with variables that contain the mean values for each of the mean and standard deviation measures captured by the Samsung, along with identifiers of the activity being performed and the subject (individual) being measured.
 
-###The following README file describes the data in the dataset, as reported by SmartLab (reference included):
+####The following README file describes the data in the dataset, as reported by SmartLab (reference included):
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
