@@ -3,22 +3,22 @@
 ###TidyData.txt is a tab-delimited text file with variables that contain the mean values for each of the mean and standard deviation measures captured by the Samsung, along with identifiers of the activity being performed and the subject (individual) being measured.
 
 #Variable list and descriptions:
- Variable: tBodyAcc-mean()-X
+ Variable: tBodyAcc-mean()-X                  
  Description: Measures the average body acceleration signal for the X axis
  
- Variable: tBodyAcc-mean()-Y
+ Variable: tBodyAcc-mean()-Y                 
  Description: Measures the average body acceleration signal for the Y axis
  
- Variable: tBodyAcc-mean()-Z
+ Variable: tBodyAcc-mean()-Z              
  Description: Measures the average body acceleration signal for the Z axis
  
- Variable: tBodyAcc-std()-X
+ Variable: tBodyAcc-std()-X            
  Description: Measures the standard deviation of body acceleration signal for the X axis
  
- Variable: tBodyAcc-std()-Y
+ Variable: tBodyAcc-std()-Y            
  Description: Measures the standard deviation of body acceleration signal for the Y axis
  
- Variable: tBodyAcc-std()-Z
+ Variable: tBodyAcc-std()-Z             
  Description: Measures the standard deviation of body acceleration signal for the Z axis     
  
  Variable: tGravityAcc-mean()-X       
