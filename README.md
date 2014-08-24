@@ -4,7 +4,7 @@ CourseProj-GetCleanData
 Samsung Tidy Data Course Project - Getting and Cleaning Data (Coursera)
 
 How the code works (following each comment):
-#Set the working directory
+##Set the working directory
 This code sets the working directory where the Samsung testing and training information (as well as features) are located.
 
 #Read the features
