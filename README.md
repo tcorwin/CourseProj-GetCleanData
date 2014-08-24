@@ -35,5 +35,5 @@ This code uses the aggregate() function to calculate the means and standard devi
 During the above step, the grouping variables were renamed. This code appropriately renames them as 'activity' and 'subject'.
 
 ##Write data to file
-This code writes the table, 'tidy_data', out to a .txt file that is tab-separated and has no row names.
+This code writes the table, 'tidy_data', out to a file called 'TidyData.txt' that is tab-separated and has no row names.
 
