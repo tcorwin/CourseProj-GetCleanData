@@ -74,7 +74,7 @@ This dataset is distributed AS-IS and no responsibility implied or explicit can 
 
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
 
-##Variable list and descriptions:
+#Variable list and descriptions:
  Variable: tBodyAcc-mean()-X
  Description: Measures the average total body acceleration for the X axis
  
