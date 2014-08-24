@@ -58,154 +58,154 @@
  Description: Measures the standard deviation of the body linear acceleration Jerk signal for the Z axis
  
  Variable: tBodyGyro-mean()-X         
- Description: M
+ Description: Measures the average angular velocity signal for the X axis
  
  Variable: tBodyGyro-mean()-Y         
- Description: 
+ Description: Measures the average angular velocity signal for the Y axis
  
  Variable: tBodyGyro-mean()-Z         
- Description: 
+ Description: Measures the average angular velocity signal for the Z axis
  
  Variable: tBodyGyro-std()-X          
- Description: 
+ Description: Measures the standard deviation of the angular velocity signal for the X axis
  
  Variable: tBodyGyro-std()-Y          
- Description: 
+ Description: Measures the standard deviation of the angular velocity signal for the X axis
  
  Variable: tBodyGyro-std()-Z          
- Description: 
+ Description: Measures the standard deviation of the angular velocity signal for the X axis
  
  Variable: tBodyGyroJerk-mean()-X     
- Description: 
+ Description: Measures the average angular velocity Jerk signal for the X axis
  
  Variable: tBodyGyroJerk-mean()-Y     
- Description: 
+ Description: Measures the average angular velocity Jerk signal for the Y axis
  
  Variable: tBodyGyroJerk-mean()-Z     
- Description: 
+ Description: Measures the average angular velocity Jerk signal for the Z axis
  
  Variable: tBodyGyroJerk-std()-X      
- Description: 
+ Description: Measures the standard deviation of the angular velocity Jerk signal for the X axis
  
  Variable: tBodyGyroJerk-std()-Y      
- Description: 
+ Description: Measures the standard deviation of the angular velocity Jerk signal for the Y axis
  
  Variable: tBodyGyroJerk-std()-Z      
- Description: 
+ Description: Measures the standard deviation of the angular velocity Jerk signal for the Z axis
  
  Variable: tBodyAccMag-mean()         
- Description: 
+ Description: Measures the average magnitude of the body acceleration signal using the Euclidean norm
  
  Variable: tBodyAccMag-std()          
- Description: 
+ Description: Measures the standard deviation of the magnitude of the body acceleration signal using the Euclidean norm
  
  Variable: tGravityAccMag-mean()      
- Description: 
+ Description: Measures the average magnitude of the body acceleration signal using the Euclidean norm
  
  Variable: tGravityAccMag-std()       
- Description: 
+ Description: Measures the standard deviation of the magnitude of the gravity acceleration signal using the Euclidean norm
  
  Variable: tBodyAccJerkMag-mean()     
- Description: 
+ Description: Measures the average magnitude of the body linear acceleration Jerk signal using the Euclidean norm
  
  Variable: tBodyAccJerkMag-std()      
- Description: 
+ Description: Measures the standard deviation of the magnitude of the body linear acceleration Jerk signal using the Euclidean norm
  
  Variable: tBodyGyroMag-mean()        
- Description: 
+ Description: Measures the average magnitude of the angular velocity signal using the Eucliean norm
  
  Variable: tBodyGyroMag-std()         
- Description: 
+ Description: Measures the standard deviation of the magnitude of the angular velocity signal using the Eucliean norm
  
  Variable: tBodyGyroJerkMag-mean()    
- Description: 
+ Description: Measures the average magnitude of the angular velocity Jerk signal using the Euclidean norm
  
  Variable: tBodyGyroJerkMag-std()     
- Description: 
+ Description: Measures the standard deviation of the magnitude of the angular velocity Jerk signal using the Euclidean norm
  
  Variable: fBodyAcc-mean()-X          
- Description: 
+ Description: Fast Fourier Transformation of the average body acceleration signal for the X axis
  
  Variable: fBodyAcc-mean()-Y          
- Description: 
+ Description: Fast Fourier Transformation of the average body acceleration signal for the Y axis
  
  Variable: fBodyAcc-mean()-Z          
- Description: 
+ Description: Fast Fourier Transformation of the average body acceleration signal for the Z axis
  
  Variable: fBodyAcc-std()-X           
- Description: 
+ Description: Fast Fourier Transformation of the standard deviation of the body acceleration signal for the X axis
  
  Variable: fBodyAcc-std()-Y           
- Description: 
+ Description: Fast Fourier Transformation of the standard deviation of the body acceleration signal for the Y axis
  
  Variable: fBodyAcc-std()-Z           
- Description: 
+ Description: Fast Fourier Transformation of the standard deviation of the body acceleration signal for the Z axis
  
  Variable: fBodyAccJerk-mean()-X      
- Description: 
+ Description: Fast Fourier Transformation of the average body linear acceleration Jerk signal for the X axis
  
  Variable: fBodyAccJerk-mean()-Y      
- Description: 
+ Description: Fast Fourier Transformation of the average body linear acceleration Jerk signal for the Y axis
  
  Variable: fBodyAccJerk-mean()-Z     
- Description: 
+ Description: Fast Fourier Transformation of the average body linear acceleration Jerk signal for the Z axis
  
  Variable: fBodyAccJerk-std()-X       
- Description: 
+ Description: Fast Fourier Transformation of the standard deviation of the body linear acceleration Jerk signal for the X axis
  
  Variable: fBodyAccJerk-std()-Y       
- Description: 
+ Description: Fast Fourier Transformation of the standard deviation of the body linear acceleration Jerk signal for the X axis
  
  Variable: fBodyAccJerk-std()-Z       
- Description: 
+ Description: Fast Fourier Transformation of the standard deviation of the body linear acceleration Jerk signal for the X axis
  
  Variable: fBodyGyro-mean()-X         
- Description: 
+ Description: Fast Fourier Transformation of the average angular velocity signal for the X axis
  
  Variable: fBodyGyro-mean()-Y         
- Description: 
+ Description: Fast Fourier Transformation of the average angular velocity signal for the Y axis
  
  Variable: fBodyGyro-mean()-Z         
- Description: 
+ Description: Fast Fourier Transformation of the average angular velocity signal for the Z axis
  
  Variable: fBodyGyro-std()-X          
- Description: 
+ Description: Fast Fourier Transformation of the standard deviation of the angular velocity signal for the X axis
  
  Variable: fBodyGyro-std()-Y          
- Description: 
+ Description: Fast Fourier Transformation of the standard deviation of the angular velocity signal for the Y axis
  
  Variable: fBodyGyro-std()-Z          
- Description: 
+ Description: Fast Fourier Transformation of the standard deviation of the angular velocity signal for the Z axis
  
  Variable: fBodyAccMag-mean()         
- Description: 
+ Description: Fast Fourier Transformation of the average magnitude of the body acceleration signal using the Euclidean norm
  
  Variable: fBodyAccMag-std()         
- Description: 
+ Description: Fast Fourier Transformation of the standard deviaton of the magnitude of the body acceleration signal using the Euclidean norm
  
  Variable: fBodyBodyAccJerkMag-mean() 
- Description: 
+ Description: Fast Fourier Transformation of the average magnitude of the body linear acceleration Jerk signal using the Euclidean norm
  
  Variable: fBodyBodyAccJerkMag-std()  
- Description: 
+ Description: Fast Fourier Transformation of the standard deviation of the magnitude of the body linear acceleration Jerk signal using the Euclidean norm
  
  Variable: fBodyBodyGyroMag-mean()    
- Description: 
+ Description: Fast Fourier Transformation of the average magnitude of the angular velocity signal using the Eucliean norm
  
  Variable: fBodyBodyGyroMag-std()     
- Description: 
+ Description: Fast Fourier Transformation of the standard deviation of the magnitude of the angular velocity signal using the Eucliean norm
  
  Variable: fBodyBodyGyroJerkMag-mean()
- Description: 
+ Description: Fast Fourier Transformation of the average magnitude of the angular velocity Jerk signal using the Euclidean norm
  
  Variable: fBodyBodyGyroJerkMag-std() 
- Description: 
+ Description: Fast Fourier Transformation of the standard deviation of the magnitude of the angular velocity Jerk signal using the Euclidean norm
  
  Variable: activity                   
- Description: 
+ Description: Measures the type of activity engaged in when each measurement was taken. Uses the original value labels from the 'activity_labels.txt' file. Variable takes on the string values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, or LAYING.
  
  Variable: subject
- Description: 
+ Description: Identifies the subject (individual) on whom each measurement is being taken. Each subject is assigned an identifier (number) ranging from 1-30.
 
 ####The following README file describes the data in the dataset, as reported by SmartLab (reference included):
 ==================================================================
