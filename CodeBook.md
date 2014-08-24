@@ -2,6 +2,211 @@
 
 ###TidyData.txt is a tab-delimited text file with variables that contain the mean values for each of the mean and standard deviation measures captured by the Samsung, along with identifiers of the activity being performed and the subject (individual) being measured.
 
+#Variable list and descriptions:
+ Variable: tBodyAcc-mean()-X
+ Description: Measures the average body acceleration signal for the X axis
+ 
+ Variable: tBodyAcc-mean()-Y
+ Description: Measures the average body acceleration signal for the Y axis
+ 
+ Variable: tBodyAcc-mean()-Z
+ Description: Measures the average body acceleration signal for the Z axis
+ 
+ Variable: tBodyAcc-std()-X
+ Description: Measures the standard deviation of body acceleration signal for the X axis
+ 
+ Variable: tBodyAcc-std()-Y
+ Description: Measures the standard deviation of body acceleration signal for the Y axis
+ 
+ Variable: tBodyAcc-std()-Z
+ Description: Measures the standard deviation of body acceleration signal for the Z axis     
+ 
+ Variable: tGravityAcc-mean()-X       
+ Description: Measures the average gravity acceleration signal for the X axis
+ 
+ Variable: tGravityAcc-mean()-Y       
+ Description: Measures the average gravity acceleration signal for the Y axis
+ 
+ Variable: tGravityAcc-mean()-Z       
+ Description: Measures the average gravity acceleration signal for the Z axis
+ 
+ Variable: tGravityAcc-std()-X        
+ Description: Measures the standard deviation of gravity acceleration signal for the X axis
+ 
+ Variable: tGravityAcc-std()-Y        
+ Description: Measures the standard deviation of gravity acceleration signal for the Y axis
+ 
+ Variable: tGravityAcc-std()-Z        
+ Description: Measures the standard deviation of gravity acceleration signal for the Z axis
+ 
+ Variable: tBodyAccJerk-mean()-X      
+ Description: Measures the average body linear acceleration Jerk signal for the X axis
+ 
+ Variable: tBodyAccJerk-mean()-Y      
+ Description: Measures the average body linear acceleration Jerk signal for the Y axis
+ 
+ Variable: tBodyAccJerk-mean()-Z      
+ Description: Measures the average body linear acceleration Jerk signal for the Z axis
+ 
+ Variable: tBodyAccJerk-std()-X       
+ Description: Measures the standard deviation of the body linear acceleration Jerk signal for the X axis
+ 
+ Variable: tBodyAccJerk-std()-Y       
+ Description: Measures the standard deviation of the body linear acceleration Jerk signal for the Y axis
+ 
+ Variable: tBodyAccJerk-std()-Z       
+ Description: Measures the standard deviation of the body linear acceleration Jerk signal for the Z axis
+ 
+ Variable: tBodyGyro-mean()-X         
+ Description: 
+ 
+ Variable: tBodyGyro-mean()-Y         
+ Description: 
+ 
+ Variable: tBodyGyro-mean()-Z         
+ Description: 
+ 
+ Variable: tBodyGyro-std()-X          
+ Description: 
+ 
+ Variable: tBodyGyro-std()-Y          
+ Description: 
+ 
+ Variable: tBodyGyro-std()-Z          
+ Description: 
+ 
+ Variable: tBodyGyroJerk-mean()-X     
+ Description: 
+ 
+ Variable: tBodyGyroJerk-mean()-Y     
+ Description: 
+ 
+ Variable: tBodyGyroJerk-mean()-Z     
+ Description: 
+ 
+ Variable: tBodyGyroJerk-std()-X      
+ Description: 
+ 
+ Variable: tBodyGyroJerk-std()-Y      
+ Description: 
+ 
+ Variable: tBodyGyroJerk-std()-Z      
+ Description: 
+ 
+ Variable: tBodyAccMag-mean()         
+ Description: 
+ 
+ Variable: tBodyAccMag-std()          
+ Description: 
+ 
+ Variable: tGravityAccMag-mean()      
+ Description: 
+ 
+ Variable: tGravityAccMag-std()       
+ Description: 
+ 
+ Variable: tBodyAccJerkMag-mean()     
+ Description: 
+ 
+ Variable: tBodyAccJerkMag-std()      
+ Description: 
+ 
+ Variable: tBodyGyroMag-mean()        
+ Description: 
+ 
+ Variable: tBodyGyroMag-std()         
+ Description: 
+ 
+ Variable: tBodyGyroJerkMag-mean()    
+ Description: 
+ 
+ Variable: tBodyGyroJerkMag-std()     
+ Description: 
+ 
+ Variable: fBodyAcc-mean()-X          
+ Description: 
+ 
+ Variable: fBodyAcc-mean()-Y          
+ Description: 
+ 
+ Variable: fBodyAcc-mean()-Z          
+ Description: 
+ 
+ Variable: fBodyAcc-std()-X           
+ Description: 
+ 
+ Variable: fBodyAcc-std()-Y           
+ Description: 
+ 
+ Variable: fBodyAcc-std()-Z           
+ Description: 
+ 
+ Variable: fBodyAccJerk-mean()-X      
+ Description: 
+ 
+ Variable: fBodyAccJerk-mean()-Y      
+ Description: 
+ 
+ Variable: fBodyAccJerk-mean()-Z     
+ Description: 
+ 
+ Variable: fBodyAccJerk-std()-X       
+ Description: 
+ 
+ Variable: fBodyAccJerk-std()-Y       
+ Description: 
+ 
+ Variable: fBodyAccJerk-std()-Z       
+ Description: 
+ 
+ Variable: fBodyGyro-mean()-X         
+ Description: 
+ 
+ Variable: fBodyGyro-mean()-Y         
+ Description: 
+ 
+ Variable: fBodyGyro-mean()-Z         
+ Description: 
+ 
+ Variable: fBodyGyro-std()-X          
+ Description: 
+ 
+ Variable: fBodyGyro-std()-Y          
+ Description: 
+ 
+ Variable: fBodyGyro-std()-Z          
+ Description: 
+ 
+ Variable: fBodyAccMag-mean()         
+ Description: 
+ 
+ Variable: fBodyAccMag-std()         
+ Description: 
+ 
+ Variable: fBodyBodyAccJerkMag-mean() 
+ Description: 
+ 
+ Variable: fBodyBodyAccJerkMag-std()  
+ Description: 
+ 
+ Variable: fBodyBodyGyroMag-mean()    
+ Description: 
+ 
+ Variable: fBodyBodyGyroMag-std()     
+ Description: 
+ 
+ Variable: fBodyBodyGyroJerkMag-mean()
+ Description: 
+ 
+ Variable: fBodyBodyGyroJerkMag-std() 
+ Description: 
+ 
+ Variable: activity                   
+ Description: 
+ 
+ Variable: subject
+ Description: 
+
 ####The following README file describes the data in the dataset, as reported by SmartLab (reference included):
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
@@ -74,84 +279,3 @@ This dataset is distributed AS-IS and no responsibility implied or explicit can 
 
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
 
-#Variable list and descriptions:
- Variable: tBodyAcc-mean()-X
- Description: Measures the average total body acceleration for the X axis
- 
- Variable: tBodyAcc-mean()-Y
- Description: Measures the average total body acceleration for the Y axis
- 
- Variable: tBodyAcc-mean()-Z
- Description: Measures the average total body acceleration for the Z axis
- 
- Variable: tBodyAcc-std()-X
- Description: Measures the standard deviation of total body acceleration for the X axis
- 
- Variable: tBodyAcc-std()-Y
- Description: Measures the standard deviation of total body acceleration for the Y axis
- 
- Variable: tBodyAcc-std()-Z
- Description: Measures the standard deviation of total body acceleration for the Z axis     
- 
- [7] "tGravityAcc-mean()-X"       
- [8] "tGravityAcc-mean()-Y"       
- [9] "tGravityAcc-mean()-Z"       
-[10] "tGravityAcc-std()-X"        
-[11] "tGravityAcc-std()-Y"        
-[12] "tGravityAcc-std()-Z"        
-[13] "tBodyAccJerk-mean()-X"      
-[14] "tBodyAccJerk-mean()-Y"      
-[15] "tBodyAccJerk-mean()-Z"      
-[16] "tBodyAccJerk-std()-X"       
-[17] "tBodyAccJerk-std()-Y"       
-[18] "tBodyAccJerk-std()-Z"       
-[19] "tBodyGyro-mean()-X"         
-[20] "tBodyGyro-mean()-Y"         
-[21] "tBodyGyro-mean()-Z"         
-[22] "tBodyGyro-std()-X"          
-[23] "tBodyGyro-std()-Y"          
-[24] "tBodyGyro-std()-Z"          
-[25] "tBodyGyroJerk-mean()-X"     
-[26] "tBodyGyroJerk-mean()-Y"     
-[27] "tBodyGyroJerk-mean()-Z"     
-[28] "tBodyGyroJerk-std()-X"      
-[29] "tBodyGyroJerk-std()-Y"      
-[30] "tBodyGyroJerk-std()-Z"      
-[31] "tBodyAccMag-mean()"         
-[32] "tBodyAccMag-std()"          
-[33] "tGravityAccMag-mean()"      
-[34] "tGravityAccMag-std()"       
-[35] "tBodyAccJerkMag-mean()"     
-[36] "tBodyAccJerkMag-std()"      
-[37] "tBodyGyroMag-mean()"        
-[38] "tBodyGyroMag-std()"         
-[39] "tBodyGyroJerkMag-mean()"    
-[40] "tBodyGyroJerkMag-std()"     
-[41] "fBodyAcc-mean()-X"          
-[42] "fBodyAcc-mean()-Y"          
-[43] "fBodyAcc-mean()-Z"          
-[44] "fBodyAcc-std()-X"           
-[45] "fBodyAcc-std()-Y"           
-[46] "fBodyAcc-std()-Z"           
-[47] "fBodyAccJerk-mean()-X"      
-[48] "fBodyAccJerk-mean()-Y"      
-[49] "fBodyAccJerk-mean()-Z"      
-[50] "fBodyAccJerk-std()-X"       
-[51] "fBodyAccJerk-std()-Y"       
-[52] "fBodyAccJerk-std()-Z"       
-[53] "fBodyGyro-mean()-X"         
-[54] "fBodyGyro-mean()-Y"         
-[55] "fBodyGyro-mean()-Z"         
-[56] "fBodyGyro-std()-X"          
-[57] "fBodyGyro-std()-Y"          
-[58] "fBodyGyro-std()-Z"          
-[59] "fBodyAccMag-mean()"         
-[60] "fBodyAccMag-std()"          
-[61] "fBodyBodyAccJerkMag-mean()" 
-[62] "fBodyBodyAccJerkMag-std()"  
-[63] "fBodyBodyGyroMag-mean()"    
-[64] "fBodyBodyGyroMag-std()"     
-[65] "fBodyBodyGyroJerkMag-mean()"
-[66] "fBodyBodyGyroJerkMag-std()" 
-[67] "activity"                   
-[68] "subject"
